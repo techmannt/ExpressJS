@@ -1,1 +1,1 @@
-  console.log('The app.js file has been read.');
+console.log('The app.js file has been read.');
